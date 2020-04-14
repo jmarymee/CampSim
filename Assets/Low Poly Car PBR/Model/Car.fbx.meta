@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: e4309dab4511a1d45b9fa6180b5da0b0
+timeCreated: 1494360009
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Car_Brake_LF
+    100004: Car_Brake_LR
+    100006: Car_Brake_RF
+    100008: Car_Brake_RL
+    100010: Car_Door_L
+    100012: Car_Door_R
+    100014: Car_Wheel_LF
+    100016: Car_Wheel_LR
+    100018: Car_Wheel_RF
+    100020: Car_Wheel_RL
+    100022: Door_WindowL
+    100024: Door_WindowR
+    100026: LightLF
+    100028: LightLR
+    100030: LightRF
+    100032: LightRR
+    100034: Steering
+    100036: Window
+    400000: //RootNode
+    400002: Car_Brake_LF
+    400004: Car_Brake_LR
+    400006: Car_Brake_RF
+    400008: Car_Brake_RL
+    400010: Car_Door_L
+    400012: Car_Door_R
+    400014: Car_Wheel_LF
+    400016: Car_Wheel_LR
+    400018: Car_Wheel_RF
+    400020: Car_Wheel_RL
+    400022: Door_WindowL
+    400024: Door_WindowR
+    400026: LightLF
+    400028: LightLR
+    400030: LightRF
+    400032: LightRR
+    400034: Steering
+    400036: Window
+    2300000: //RootNode
+    2300002: Car_Brake_LF
+    2300004: Car_Brake_LR
+    2300006: Car_Brake_RF
+    2300008: Car_Brake_RL
+    2300010: Car_Door_L
+    2300012: Car_Door_R
+    2300014: Car_Wheel_LF
+    2300016: Car_Wheel_LR
+    2300018: Car_Wheel_RF
+    2300020: Car_Wheel_RL
+    2300022: Door_WindowL
+    2300024: Door_WindowR
+    2300026: LightLF
+    2300028: LightLR
+    2300030: LightRF
+    2300032: LightRR
+    2300034: Steering
+    2300036: Window
+    3300000: //RootNode
+    3300002: Car_Brake_LF
+    3300004: Car_Brake_LR
+    3300006: Car_Brake_RF
+    3300008: Car_Brake_RL
+    3300010: Car_Door_L
+    3300012: Car_Door_R
+    3300014: Car_Wheel_LF
+    3300016: Car_Wheel_LR
+    3300018: Car_Wheel_RF
+    3300020: Car_Wheel_RL
+    3300022: Door_WindowL
+    3300024: Door_WindowR
+    3300026: LightLF
+    3300028: LightLR
+    3300030: LightRF
+    3300032: LightRR
+    3300034: Steering
+    3300036: Window
+    4300000: Car
+    4300002: Car_Wheel_RL
+    4300004: Car_Wheel_LR
+    4300006: Car_Brake_LR
+    4300008: Car_Brake_RL
+    4300010: Car_Brake_RF
+    4300012: Car_Brake_LF
+    4300014: Car_Wheel_LF
+    4300016: LightRR
+    4300018: LightLR
+    4300020: LightRF
+    4300022: LightLF
+    4300024: Steering
+    4300026: Window
+    4300028: Car_Door_R
+    4300030: Door_WindowR
+    4300032: Car_Door_L
+    4300034: Door_WindowL
+    4300036: Car_Wheel_RF
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car_Interior
+    second: {fileID: 2100000, guid: 348592e9ac2462941bce93e9a04888c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car_Paint
+    second: {fileID: 2100000, guid: 4813e1ce644fc9d4fa0c125088825e08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car_Wheel
+    second: {fileID: 2100000, guid: d6d31a7d2ccf6f540af7c9bfccc6a233, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light
+    second: {fileID: 2100000, guid: 51b5eea49e23d4a4c9bd9756483c954a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: d6f46910e2ed6884fa70a22a767318fc, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1 @@
+ffmpeg -i securitymovie007.mp4 -t 0:1:50 -vcodec libx264 -crf 35 securitymovie007-crf35.mp4

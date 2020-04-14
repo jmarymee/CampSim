@@ -1,0 +1,89 @@
+public void createPointsFor_eb12_resident()  // machine generated - do not edit
+{
+    grc.regman.NewNodeRegion("eb12-resident","blue", saveToFile:true);
+    grc.AddNodePtxyz(  "eb12-dw03",0.000,0.000,4.000, comment:"driveway start"); //  1 nn:1 nl:0
+    grc.AddLinkByNodeName( "eb12-dw03","reg:eb12-streets", LinkUse.driveway); //  2 nn:0 nl:1
+    grc.LinkToPtxyz( "eb12-dw03","eb12-dw02",6.600,0.000,-1.000, LinkUse.driveway, comment:""); //  3 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-dw02","eb12-dw01",31.400,0.000,-1.000, LinkUse.driveway, comment:""); //  4 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-dw01","eb12-oso04",33.000,0.000,1.000, LinkUse.walkway, comment:"walkway start"); //  5 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-oso04","eb12-oso03",33.000,0.000,7.000, LinkUse.walkway, comment:""); //  6 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-oso03","eb12-oso02",31.000,0.000,10.000, LinkUse.walkway, comment:""); //  7 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-oso02","eb12-oso01",31.000,0.000,23.500, LinkUse.walkway, comment:""); //  8 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-oso01","eb12-oso14",23.600,0.000,23.500, LinkUse.walkway, comment:""); //  9 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-oso14","eb12-oso12",19.000,0.000,23.500, LinkUse.walkway, comment:""); //  10 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-oso12","eb12-oso10",12.500,0.000,23.500, LinkUse.walkway, comment:""); //  11 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-oso10","eb12-oso08",8.000,0.000,23.500, LinkUse.walkway, comment:""); //  12 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-oso01","eb12-oso1a",29.000,0.000,21.200, LinkUse.walkway, comment:"place for Arnie"); //  13 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-oso14","eb12-14-lob",23.600,0.000,28.000, LinkUse.walkway, comment:""); //  14 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-oso12","eb12-12-lob",19.000,0.000,28.000, LinkUse.walkway, comment:""); //  15 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-oso10","eb12-10-lob",12.500,0.000,28.000, LinkUse.walkway, comment:""); //  16 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-oso08","eb12-08-lob",8.000,0.000,28.000, LinkUse.walkway, comment:""); //  17 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-oso01","eb12-oso16",30.000,0.000,28.000, LinkUse.walkway, comment:""); //  18 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-oso16","eb12-16-lob",30.000,0.000,30.800, LinkUse.walkway, comment:""); //  19 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-oso01","eb12-oso18",34.400,0.000,28.000, LinkUse.walkway, comment:""); //  20 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-oso18","eb12-18-lob",34.400,0.000,30.800, LinkUse.walkway, comment:""); //  21 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-oso01","eb12-oso20",41.000,0.000,28.000, LinkUse.walkway, comment:""); //  22 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-oso20","eb12-20-lob",41.000,0.000,30.800, LinkUse.walkway, comment:""); //  23 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-oso01","eb12-oso22",45.600,0.000,28.000, LinkUse.walkway, comment:""); //  24 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-oso22","eb12-22-lob",45.600,0.000,30.800, LinkUse.walkway, comment:""); //  25 nn:1 nl:1
+    grc.AddNodePtxyz(  "eb12-el-l01",0.000,0.000,0.000, comment:"elecpipe start"); //  26 nn:1 nl:0
+    grc.LinkToPtxyz( "eb12-el-l01","eb12-el-l02",0.000,0.000,22.200, LinkUse.elecpipe, comment:""); //  27 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-l02","eb12-el-o08a",8.500,0.000,22.200, LinkUse.elecpipe, comment:""); //  28 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-o08a","eb12-el-o10a",13.000,0.000,22.200, LinkUse.elecpipe, comment:""); //  29 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-o10a","eb12-el-lp03a",15.840,0.000,22.200, LinkUse.elecpipe, comment:""); //  30 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-lp03a","eb12-el-o12a",19.500,0.000,22.200, LinkUse.elecpipe, comment:""); //  31 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-o12a","eb12-el-o14a",24.100,0.000,22.200, LinkUse.elecpipe, comment:""); //  32 nn:1 nl:1
+    grc.AddLinkByNodeName( "eb12-el-o14a","eb12-el-o14a", LinkUse.elecpipe); //  33 nn:0 nl:1
+    grc.LinkToPtxyz( "eb12-el-o14a","eb12-el-l04",30.500,0.000,22.200, LinkUse.elecpipe, comment:""); //  34 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-l04","eb12-el-o16a",30.500,0.000,25.220, LinkUse.elecpipe, comment:""); //  35 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-o16a","eb12-el-o18a",34.900,0.000,25.220, LinkUse.elecpipe, comment:""); //  36 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-o18a","eb12-el-lp04a",38.000,0.000,25.220, LinkUse.elecpipe, comment:""); //  37 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-lp04a","eb12-el-o20a",41.500,0.000,25.220, LinkUse.elecpipe, comment:""); //  38 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-o20a","eb12-el-o22a",46.100,0.000,25.220, LinkUse.elecpipe, comment:""); //  39 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-o08a","eb12-el-o08b",8.500,0.000,28.000, LinkUse.elecpipe, comment:""); //  40 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-o10a","eb12-el-o10b",13.000,0.000,28.000, LinkUse.elecpipe, comment:""); //  41 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-o12a","eb12-el-o12b",19.500,0.000,28.000, LinkUse.elecpipe, comment:""); //  42 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-o14a","eb12-el-o14b",24.100,0.000,28.000, LinkUse.elecpipe, comment:""); //  43 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-o16a","eb12-el-o16b",30.500,0.000,30.800, LinkUse.elecpipe, comment:""); //  44 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-o18a","eb12-el-o18b",34.900,0.000,30.800, LinkUse.elecpipe, comment:""); //  45 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-o20a","eb12-el-o20b",41.500,0.000,30.800, LinkUse.elecpipe, comment:""); //  46 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-o22a","eb12-el-o22b",46.100,0.000,30.800, LinkUse.elecpipe, comment:""); //  47 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-lp03a","eb12-el-lp03b",15.840,0.000,21.280, LinkUse.elecpipe, comment:""); //  48 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-lp04a","eb12-el-lp04b",38.000,0.000,23.700, LinkUse.elecpipe, comment:""); //  49 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-l02","eb12-el-l03",-1.000,0.000,56.000, LinkUse.elecpipe, comment:""); //  50 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-l04","eb12-el-l05",32.000,0.000,22.200, LinkUse.elecpipe, comment:""); //  51 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-l05","eb12-el-lp05a",32.000,0.000,11.380, LinkUse.elecpipe, comment:""); //  52 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-lp05a","eb12-el-l06",32.860,0.000,-4.200, LinkUse.elecpipe, comment:""); //  53 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-l06","eb12-el-hl06",32.860,2.700,-4.200, LinkUse.elecpipe, comment:""); //  54 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-hl06","eb12-el-hl06-1",30.675,2.700,-4.200, LinkUse.elecpipe, comment:""); //  55 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-hl06-1","eb12-el-hl06-2",27.750,2.700,-4.200, LinkUse.elecpipe, comment:""); //  56 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-hl06-2","eb12-el-hl06-3",24.825,2.700,-4.200, LinkUse.elecpipe, comment:""); //  57 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-hl06-3","eb12-el-hl06-4",21.900,2.700,-4.200, LinkUse.elecpipe, comment:""); //  58 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-hl06-4","eb12-el-hl06-5",18.975,2.700,-4.200, LinkUse.elecpipe, comment:""); //  59 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-hl06-5","eb12-el-hl06-6",16.050,2.700,-4.200, LinkUse.elecpipe, comment:""); //  60 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-hl06-6","eb12-el-hl06-7",13.125,2.700,-4.200, LinkUse.elecpipe, comment:""); //  61 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-hl06-7","eb12-el-hl08",10.000,2.700,-4.200, LinkUse.elecpipe, comment:""); //  62 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-hl06-1","eb12-el-hl06-1a",30.675,2.700,-4.600, LinkUse.elecpipe, comment:""); //  63 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-hl06-1a","eb12-el-hl06-1b",30.675,1.500,-4.600, LinkUse.elecpipe, comment:""); //  64 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-hl06-2","eb12-el-hl06-2a",27.750,2.700,-4.600, LinkUse.elecpipe, comment:""); //  65 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-hl06-2a","eb12-el-hl06-2b",27.750,1.500,-4.600, LinkUse.elecpipe, comment:""); //  66 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-hl06-3","eb12-el-hl06-3a",24.825,2.700,-4.600, LinkUse.elecpipe, comment:""); //  67 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-hl06-3a","eb12-el-hl06-3b",24.825,1.500,-4.600, LinkUse.elecpipe, comment:""); //  68 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-hl06-4","eb12-el-hl06-4a",21.900,2.700,-4.600, LinkUse.elecpipe, comment:""); //  69 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-hl06-4a","eb12-el-hl06-4b",21.900,1.500,-4.600, LinkUse.elecpipe, comment:""); //  70 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-hl06-5","eb12-el-hl06-5a",18.975,2.700,-4.600, LinkUse.elecpipe, comment:""); //  71 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-hl06-5a","eb12-el-hl06-5b",18.975,1.500,-4.600, LinkUse.elecpipe, comment:""); //  72 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-hl06-6","eb12-el-hl06-6a",16.050,2.700,-4.600, LinkUse.elecpipe, comment:""); //  73 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-hl06-6a","eb12-el-hl06-6b",16.050,1.500,-4.600, LinkUse.elecpipe, comment:""); //  74 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-hl06-7","eb12-el-hl06-7a",13.125,2.700,-4.600, LinkUse.elecpipe, comment:""); //  75 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-el-hl06-7a","eb12-el-hl06-7b",13.125,1.500,-4.600, LinkUse.elecpipe, comment:""); //  76 nn:1 nl:1
+    grc.AddNodePtxyz(  "eb12-wt-l00",-2.680,0.000,-15.000, comment:"waterpipe start"); //  77 nn:1 nl:0
+    grc.LinkToPtxyz( "eb12-wt-l00","eb12-wt-l01",-3.270,0.000,4.190, LinkUse.waterpipe, comment:""); //  78 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-wt-l01","eb12-wt-l02",-1.550,0.000,22.700, LinkUse.waterpipe, comment:""); //  79 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-wt-l02","eb12-wt-l03",-4.340,0.000,47.500, LinkUse.waterpipe, comment:""); //  80 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-wt-l01","eb12-wt-l01-01",33.000,0.000,4.190, LinkUse.waterpipe, comment:""); //  81 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-wt-l01-01","eb12-wt-l01-02",44.000,0.000,4.190, LinkUse.waterpipe, comment:""); //  82 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-wt-l02","eb12-wt-l02-01",15.000,0.000,22.700, LinkUse.waterpipe, comment:""); //  83 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-wt-l02-01","eb12-wt-l02-02",25.000,0.000,22.700, LinkUse.waterpipe, comment:""); //  84 nn:1 nl:1
+    grc.regman.SetRegion("default");
+}

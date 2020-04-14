@@ -1,0 +1,13 @@
+public void createPointsFor_msft_b99()  // machine generated - do not edit
+{
+    grc.regman.NewNodeRegion("msft-b99","purple", saveToFile:true);
+    grc.AddNodePtxyz(  "b99-f01-lobby",-113.000,0.000,-612.700, comment:""); //  1 nn:1 nl:0
+    grc.LinkToPtxyz( "b99-f01-lobby","b99-os1-o00",-114.630,0.000,-588.610, LinkUse.walkway, comment:""); //  2 nn:1 nl:1
+    grc.LinkToPtxyz( "b99-os1-o00","b99-os1-o01",-116.940,0.000,-573.640, LinkUse.walkway, comment:""); //  3 nn:1 nl:1
+    grc.LinkToPtxyz( "b99-os1-o01","b99-os1-o02",-126.610,0.000,-570.150, LinkUse.walkway, comment:""); //  4 nn:1 nl:1
+    grc.LinkToPtxyz( "b99-os1-o02","b99-os1-o03",-139.820,0.000,-570.660, LinkUse.walkway, comment:""); //  5 nn:1 nl:1
+    grc.LinkToPtxyz( "b99-os1-o03","b99-os1-o04",-139.820,0.000,-561.610, LinkUse.walkway, comment:""); //  6 nn:1 nl:1
+    grc.AddNodePtxyz(  "dw-b99-o00",-88.200,0.000,-569.810, comment:""); //  7 nn:1 nl:0
+    grc.AddLinkByNodeName( "dw-b99-o00","reg:msft-campus", LinkUse.driveway); //  8 nn:0 nl:1
+    grc.regman.SetRegion("default");
+}

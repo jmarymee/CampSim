@@ -1,0 +1,16 @@
+{
+  "name": "com.coffee.qkmaptool",
+  "displayName": "qkmaptool",
+  "description": "QuadKey oriented map tool",
+  "version": "1.2.6",
+  "unity": "2018.3",
+  "license": "MIT",
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "Multi Scenario Demo",
+      "description": "Multi Scenario Demo",
+      "path": "Samples~/MultiScenarioDemo"
+    }
+  ]
+}

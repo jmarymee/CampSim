@@ -1,0 +1,1 @@
+ffmpeg -i nevacmovie018.mp4 -t 0:1:50 -vcodec libx264 -crf 35 nevacmovie018-crf35.mp4

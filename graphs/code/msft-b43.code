@@ -1,0 +1,12 @@
+public void createPointsFor_msft_b43()  // machine generated - do not edit
+{
+    grc.regman.NewNodeRegion("msft-b43","purple", saveToFile:true);
+    grc.AddNodePtxyz(  "dw-B43-c01",89.800,0.000,74.800, comment:""); //  1 nn:1 nl:0
+    grc.LinkToPtxyz( "dw-B43-c01","dw-B43-c02",64.600,0.000,62.300, LinkUse.driveway, comment:""); //  2 nn:1 nl:1
+    grc.LinkToPtxyz( "dw-B43-c02","dw-B43-c03",53.900,0.000,57.500, LinkUse.driveway, comment:""); //  3 nn:1 nl:1
+    grc.LinkToPtxyz( "dw-B43-c03","dw-B43-c04",50.180,0.000,49.740, LinkUse.driveway, comment:""); //  4 nn:1 nl:1
+    grc.LinkToPtxyz( "dw-B43-c04","dw-B43-c05",62.850,0.000,55.200, LinkUse.driveway, comment:""); //  5 nn:1 nl:1
+    grc.AddLinkByNodeName( "dw-B43-c05","reg:msft-campus", LinkUse.driveway); //  6 nn:0 nl:1
+    grc.AddLinkByNodeName( "dw-B43-c01","reg:msft-campus", LinkUse.driveway); //  7 nn:0 nl:1
+    grc.regman.SetRegion("default");
+}

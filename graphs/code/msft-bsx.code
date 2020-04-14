@@ -1,0 +1,10 @@
+public void createPointsFor_msft_bsx()  // machine generated - do not edit
+{
+    grc.regman.NewNodeRegion("msft-bsx","purple", saveToFile:true);
+    grc.AddNodePtxyz(  "bSX-f01-lobby",-157.200,0.000,-180.000, comment:""); //  1 nn:1 nl:0
+    grc.LinkToPtxyz( "bSX-f01-lobby","bSX-os1-o00",-154.040,0.000,-176.210, LinkUse.walkway, comment:""); //  2 nn:1 nl:1
+    grc.AddNodePtxyz(  "dw-SX-o00",-85.560,0.000,-171.520, comment:""); //  3 nn:1 nl:0
+    grc.LinkToPtxyz( "dw-SX-o00","dw-SX-o01",-102.470,0.000,-172.000, LinkUse.driveway, comment:""); //  4 nn:1 nl:1
+    grc.AddLinkByNodeName( "dw-SX-o00","reg:msft-campus", LinkUse.driveway); //  5 nn:0 nl:1
+    grc.regman.SetRegion("default");
+}

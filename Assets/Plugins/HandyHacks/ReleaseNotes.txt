@@ -1,0 +1,74 @@
+﻿Handy Hacks
+-----------
+WEBSITE
+http://www.rippleware.ca
+
+CONTACT EMAIL
+sarfaraaz@rippleware.ca
+
+FEEDBACK AND IDEAS
+https://forum.unity3d.com/threads/released-handy-hacks-for-unity.433099/
+
+--------------
+RELEASE NOTES:
+--------------
+Version 0.4.4
+ * fixed editor warnings caused by obsolete code
+ * fixed a bug associated with the Batch Replace tool
+
+Version 0.4.3
+ORIENTATION GIZMO
+ * added save state to remember & load the orientation gizmo if it was active when you closed unity or recompiled.
+ * tweaked the size & position of rotation handles.
+ * created a dedicated 2D version of the gizmo that better serves 2D workflows.
+
+Version 0.4.2
+ORIENTATION GIZMO
+ * fixed handle drawing warnings that appeared in Unity 5.5
+ * fixed context menu bug in Unity 2017.1
+QUICK MEASURES
+ * fixed bug that prevented the protractor tool from working in Unity 2017.1
+
+Version 0.4.1
+* Added Batch Replace wizard
+
+Version 0.4.0
+* Added Navigation Shortcuts 
+
+Version 0.3.1
+* Added angle snap features to the Ruler & Protractor
+
+Version 0.3
+* Added User Manual to Handy Hacks
+* Bug fixes
+
+Version 0.2.4
+* Added colour settings for Quick Measures
+* Added 2D view settings for Orientation Gizmo
+* Hooked up Editor Prefs so users can save their settings
+* Added button to restore default settings for Handy Hacks
+* Bug fixes
+
+Version 0.2.3
+* Created a preferences class to manage settings
+* Added a basic and an advanced mode for Create Empty Parent
+* Made variables for tool hotkeys to simplify editing them 
+
+Version 0.2.2
+* Organized and commented code for asset submission
+* Bug fixes
+
+Version 0.2.1
+* Added Deselect All
+
+Version 0.2
+* Wrapped classes in HandyHacks namespace
+* Cleaned up code
+* Made screen space rotation work more intuitively
+* Bug fixes
+
+Version 0.1
+* Added Ruler & Protractor
+* Added Orientation Gizmo
+* Added Screen Space Tools
+* Added Create Empty Parent

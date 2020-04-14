@@ -1,0 +1,13 @@
+public void createPointsFor_eb12_streets()  // machine generated - do not edit
+{
+    grc.regman.NewNodeRegion("eb12-streets","blue", saveToFile:true);
+    grc.AddNodePtxyz(  "eb12-st02",-6.000,0.000,24.000, comment:""); //  1 nn:1 nl:0
+    grc.LinkToPtxyz( "eb12-st02","eb12-st01",-6.000,0.000,8.000, LinkUse.road, comment:""); //  2 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-st02","eb12-st03",-6.000,0.000,60.000, LinkUse.slowroad, comment:"streets start"); //  3 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-st03","eb12-st04",-25.000,0.000,118.000, LinkUse.slowroad, comment:""); //  4 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-st04","eb12-st05",60.000,0.000,182.000, LinkUse.road, comment:""); //  5 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-st05","eb12-nr01",134.000,0.000,182.000, LinkUse.road, comment:""); //  6 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-nr01","eb12-es01",229.000,0.000,186.000, LinkUse.slowroad, comment:""); //  7 nn:1 nl:1
+    grc.LinkToPtxyz( "eb12-es01","eb12-es02",252.300,0.000,195.300, LinkUse.slowroad, comment:""); //  8 nn:1 nl:1
+    grc.regman.SetRegion("default");
+}

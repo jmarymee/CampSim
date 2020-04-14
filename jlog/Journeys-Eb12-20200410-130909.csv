@@ -1,0 +1,177 @@
+njny,pname,aname,vid,vtype,roomfr,roomto,time,desc
+0,Deepak Wilson,Businessman003,,,Eb12-22/eb12-12-lob,Eb12-22/eb12-22-lob,0.000,Deepak Wilson interbuiding leg.snode:eb12-12-lob enode:eb12-22-lob
+1,Zoe Plank,Businesswoman008,,,Eb12-22/eb12-10-lob,Eb12-22/eb12-22-lob,0.000,Zoe Plank interbuiding leg.snode:eb12-10-lob enode:eb12-22-lob
+2,Bruce Jones,Businessman002,,,Eb12-22/eb12-12-lob,Eb12-22/eb12-22-lob,0.000,Bruce Jones interbuiding leg.snode:eb12-12-lob enode:eb12-22-lob
+3,Liam Li,Man004,,,EbRewe/eb12-rewe-rm02,EbRewe/eb12-rewe-rm01,0.000,Liam Li interbuiding leg.snode:eb12-rewe-rm02 enode:eb12-rewe-rm01
+4,Gabriel Becker,Man007,,,EbRewe/eb12-rewe-rm01,EbRewe/eb12-rewe-lob,0.000,Gabriel Becker interbuiding leg.snode:eb12-rewe-rm01 enode:eb12-rewe-lob
+5,Ai Visser,Businesswoman007,R-7874,Car005,Eb12-22/eb12-14-lob,EbRewe/eb12-rewe-rm02,0.000,Ai Visser traveling to eb12-rewe-rm02 with a Car005
+6,Yuka Althoff,Girl010,FY-5926,Car003,EbRewe/eb12-rewe-rm02,Eb12-22/eb12-14-lob,0.000,Yuka Althoff traveling to eb12-14-lob with a Car003
+7,Vladimir Takahashi,Man010,N-5596,Car011,Eb12-22/eb12-16-lob,EbRewe/eb12-rewe-lob,0.000,Vladimir Takahashi traveling to eb12-rewe-lob with a Car011
+8,Rakesh Smirnov,Businessman009,,,Eb12-22/eb12-08-lob,Eb12-22/eb12-10-lob,0.000,Rakesh Smirnov interbuiding leg.snode:eb12-08-lob enode:eb12-10-lob
+9,Olivia Kobayashi,Businesswoman002,Q-9695,Car026,Eb12-22/eb12-18-lob,EbRewe/eb12-rewe-rm01,2.002,Olivia Kobayashi traveling to eb12-rewe-rm01 with a Car026
+10,Rio Mortimer,Businesswoman007,GT-5422,Car014,Eb12-22/eb12-16-lob,EbRewe/eb12-rewe-lob,2.002,Rio Mortimer traveling to eb12-rewe-lob with a Car014
+11,Ivan Larsen,Businessman008,V-3553,Car007,Eb12-22/eb12-22-lob,EbRewe/eb12-rewe-lob,2.002,Ivan Larsen traveling to eb12-rewe-lob with a Car007
+12,Satya Kobayashi,Businessman002,,,Eb12-22/eb12-12-lob,Eb12-22/eb12-22-lob,2.002,Satya Kobayashi interbuiding leg.snode:eb12-12-lob enode:eb12-22-lob
+13,Yin Singh,Girl006,,,Eb12-22/eb12-18-lob,Eb12-22/eb12-14-lob,2.002,Yin Singh interbuiding leg.snode:eb12-18-lob enode:eb12-14-lob
+14,Liang Tanaka,Businessman002,W-2501,Car010,EbRewe/eb12-rewe-lob,Eb12-22/eb12-22-lob,2.002,Liang Tanaka traveling to eb12-22-lob with a Car010
+15,Brett Remus,Man001,,,Eb12-22/eb12-16-lob,Eb12-22/eb12-10-lob,2.002,Brett Remus interbuiding leg.snode:eb12-16-lob enode:eb12-10-lob
+16,Thuy Althoff,Businesswoman007,,,Eb12-22/eb12-16-lob,Eb12-22/eb12-18-lob,2.002,Thuy Althoff interbuiding leg.snode:eb12-16-lob enode:eb12-18-lob
+17,Clair Zhou,Businesswoman003,,,Eb12-22/eb12-20-lob,Eb12-22/eb12-16-lob,4.007,Clair Zhou interbuiding leg.snode:eb12-20-lob enode:eb12-16-lob
+18,Xaoice Larsen,Girl008,,,Eb12-22/eb12-14-lob,Eb12-22/eb12-16-lob,4.007,Xaoice Larsen interbuiding leg.snode:eb12-14-lob enode:eb12-16-lob
+19,Arjun Jordan,Businessman005,,,Eb12-22/eb12-10-lob,Eb12-22/eb12-20-lob,4.007,Arjun Jordan interbuiding leg.snode:eb12-10-lob enode:eb12-20-lob
+20,Rene Jordan,Man007,I-1393,Car004,EbRewe/eb12-rewe-rm01,Eb12-22/eb12-12-lob,4.007,Rene Jordan traveling to eb12-12-lob with a Car004
+21,Anders Agarwal,Man010,,,Eb12-22/eb12-18-lob,Eb12-22/eb12-22-lob,4.007,Anders Agarwal interbuiding leg.snode:eb12-18-lob enode:eb12-22-lob
+22,Ema Laren,Girl004,,,Eb12-22/eb12-10-lob,Eb12-22/eb12-20-lob,4.007,Ema Laren interbuiding leg.snode:eb12-10-lob enode:eb12-20-lob
+23,Steve Kumar,Man001,,,Eb12-22/eb12-12-lob,Eb12-22/eb12-10-lob,4.007,Steve Kumar interbuiding leg.snode:eb12-12-lob enode:eb12-10-lob
+24,Spyros Althoff,Man001,,,EbRewe/eb12-rewe-lob,EbRewe/eb12-rewe-rm01,6.019,Spyros Althoff interbuiding leg.snode:eb12-rewe-lob enode:eb12-rewe-rm01
+25,Olivia Remus,Businesswoman005,,,Eb12-22/eb12-08-lob,Eb12-22/eb12-18-lob,6.019,Olivia Remus interbuiding leg.snode:eb12-08-lob enode:eb12-18-lob
+26,Fan Jordan,Girl009,,,Eb12-22/eb12-16-lob,Eb12-22/eb12-22-lob,6.019,Fan Jordan interbuiding leg.snode:eb12-16-lob enode:eb12-22-lob
+27,Bill Xian,Man005,,,Eb12-22/eb12-12-lob,Eb12-22/eb12-08-lob,6.019,Bill Xian interbuiding leg.snode:eb12-12-lob enode:eb12-08-lob
+28,Kevyn Park,Businesswoman005,,,Eb12-22/eb12-22-lob,Eb12-22/eb12-16-lob,6.019,Kevyn Park interbuiding leg.snode:eb12-22-lob enode:eb12-16-lob
+29,Aryan Johnson,Man005,,,Eb12-22/eb12-16-lob,Eb12-22/eb12-10-lob,8.037,Aryan Johnson interbuiding leg.snode:eb12-16-lob enode:eb12-10-lob
+30,Muhammad Anand,Man007,,,Eb12-22/eb12-16-lob,Eb12-22/eb12-08-lob,8.037,Muhammad Anand interbuiding leg.snode:eb12-16-lob enode:eb12-08-lob
+31,Vijay Wise,Man002,,,Eb12-22/eb12-08-lob,Eb12-22/eb12-18-lob,8.037,Vijay Wise interbuiding leg.snode:eb12-08-lob enode:eb12-18-lob
+32,Qi Wu,Man009,,,Eb12-22/eb12-22-lob,Eb12-22/eb12-08-lob,8.037,Qi Wu interbuiding leg.snode:eb12-22-lob enode:eb12-08-lob
+33,Qi Ray,Man010,,,Eb12-22/eb12-08-lob,Eb12-22/eb12-16-lob,10.046,Qi Ray interbuiding leg.snode:eb12-08-lob enode:eb12-16-lob
+34,Detlev Wang,Businessman006,,,Eb12-22/eb12-16-lob,Eb12-22/eb12-12-lob,10.046,Detlev Wang interbuiding leg.snode:eb12-16-lob enode:eb12-12-lob
+35,Yuka Feng,Girl005,,,Eb12-22/eb12-10-lob,Eb12-22/eb12-16-lob,10.046,Yuka Feng interbuiding leg.snode:eb12-10-lob enode:eb12-16-lob
+36,Vinod Remus,Businessman004,,,Eb12-22/eb12-20-lob,Eb12-22/eb12-10-lob,10.046,Vinod Remus interbuiding leg.snode:eb12-20-lob enode:eb12-10-lob
+37,Vinod Carnot,Businessman007,,,Eb12-22/eb12-14-lob,Eb12-22/eb12-22-lob,12.073,Vinod Carnot interbuiding leg.snode:eb12-14-lob enode:eb12-22-lob
+38,Liam Li,Man004,,,EbRewe/eb12-rewe-rm01,EbRewe/eb12-rewe-rm02,12.073,Liam Li interbuiding leg.snode:eb12-rewe-rm01 enode:eb12-rewe-rm02
+39,Shay Ross,Businesswoman008,,,Eb12-22/eb12-16-lob,Eb12-22/eb12-10-lob,12.073,Shay Ross interbuiding leg.snode:eb12-16-lob enode:eb12-10-lob
+40,Peng Garcia,Man008,,,Eb12-22/eb12-08-lob,Eb12-22/eb12-22-lob,12.073,Peng Garcia interbuiding leg.snode:eb12-08-lob enode:eb12-22-lob
+41,Katy Nguyen,Businesswoman001,,,Eb12-22/eb12-22-lob,Eb12-22/eb12-08-lob,12.073,Katy Nguyen interbuiding leg.snode:eb12-22-lob enode:eb12-08-lob
+42,Julia Chen,Girl006,,,Eb12-22/eb12-16-lob,Eb12-22/eb12-18-lob,12.073,Julia Chen interbuiding leg.snode:eb12-16-lob enode:eb12-18-lob
+43,Sally Cai,Girl010,,,Eb12-22/eb12-10-lob,Eb12-22/eb12-20-lob,14.083,Sally Cai interbuiding leg.snode:eb12-10-lob enode:eb12-20-lob
+44,Hina Patel,Businesswoman006,,,Eb12-22/eb12-20-lob,Eb12-22/eb12-08-lob,14.083,Hina Patel interbuiding leg.snode:eb12-20-lob enode:eb12-08-lob
+45,Tay Johnson,Businesswoman001,,,Eb12-22/eb12-10-lob,Eb12-22/eb12-08-lob,14.083,Tay Johnson interbuiding leg.snode:eb12-10-lob enode:eb12-08-lob
+46,Jim Yamamoto,Businessman003,,,Eb12-22/eb12-10-lob,Eb12-22/eb12-16-lob,14.083,Jim Yamamoto interbuiding leg.snode:eb12-10-lob enode:eb12-16-lob
+47,Gabriel Becker,Man007,T-6239,Car014,EbRewe/eb12-rewe-lob,Eb12-22/eb12-08-lob,14.083,Gabriel Becker traveling to eb12-08-lob with a Car014
+48,Haruka Smirnov,Businesswoman003,,,Eb12-22/eb12-08-lob,Eb12-22/eb12-16-lob,14.083,Haruka Smirnov interbuiding leg.snode:eb12-08-lob enode:eb12-16-lob
+49,Ira Jones,Businesswoman009,,,Eb12-22/eb12-10-lob,Eb12-22/eb12-14-lob,16.099,Ira Jones interbuiding leg.snode:eb12-10-lob enode:eb12-14-lob
+50,Alex Zhou,Businessman010,,,Eb12-22/eb12-20-lob,Eb12-22/eb12-14-lob,16.099,Alex Zhou interbuiding leg.snode:eb12-20-lob enode:eb12-14-lob
+51,Aryan Cupp,Man008,,,Eb12-22/eb12-16-lob,Eb12-22/eb12-14-lob,16.099,Aryan Cupp interbuiding leg.snode:eb12-16-lob enode:eb12-14-lob
+52,Elizabeth Park,Girl004,,,Eb12-22/eb12-14-lob,Eb12-22/eb12-20-lob,16.099,Elizabeth Park interbuiding leg.snode:eb12-14-lob enode:eb12-20-lob
+53,Aditi Watanabe,Girl006,,,Eb12-22/eb12-14-lob,Eb12-22/eb12-20-lob,16.099,Aditi Watanabe interbuiding leg.snode:eb12-14-lob enode:eb12-20-lob
+54,Ava Balmer,Businesswoman005,,,Eb12-22/eb12-18-lob,Eb12-22/eb12-16-lob,16.099,Ava Balmer interbuiding leg.snode:eb12-18-lob enode:eb12-16-lob
+55,Sven Visser,Businessman004,AN-8321,Car026,Eb12-22/eb12-12-lob,EbRewe/eb12-rewe-rm01,16.099,Sven Visser traveling to eb12-rewe-rm01 with a Car026
+56,Fu Bohr,Businessman006,,,Eb12-22/eb12-18-lob,Eb12-22/eb12-10-lob,18.101,Fu Bohr interbuiding leg.snode:eb12-18-lob enode:eb12-10-lob
+57,Rimes Nakamura,Man004,,,Eb12-22/eb12-10-lob,Eb12-22/eb12-14-lob,18.101,Rimes Nakamura interbuiding leg.snode:eb12-10-lob enode:eb12-14-lob
+58,Katy Yamamoto,Businesswoman003,,,Eb12-22/eb12-10-lob,Eb12-22/eb12-18-lob,18.101,Katy Yamamoto interbuiding leg.snode:eb12-10-lob enode:eb12-18-lob
+59,Alex Xiao,Businessman001,,,Eb12-22/eb12-16-lob,Eb12-22/eb12-20-lob,18.101,Alex Xiao interbuiding leg.snode:eb12-16-lob enode:eb12-20-lob
+60,Vinod Haneda,Man003,,,Eb12-22/eb12-08-lob,Eb12-22/eb12-12-lob,18.101,Vinod Haneda interbuiding leg.snode:eb12-08-lob enode:eb12-12-lob
+61,Arjun Althoff,Businessman007,,,Eb12-22/eb12-22-lob,Eb12-22/eb12-14-lob,20.109,Arjun Althoff interbuiding leg.snode:eb12-22-lob enode:eb12-14-lob
+62,Judson Xian,Man008,,,Eb12-22/eb12-14-lob,Eb12-22/eb12-12-lob,20.109,Judson Xian interbuiding leg.snode:eb12-14-lob enode:eb12-12-lob
+63,Clair Zhou,Businesswoman003,,,Eb12-22/eb12-16-lob,Eb12-22/eb12-14-lob,20.109,Clair Zhou interbuiding leg.snode:eb12-16-lob enode:eb12-14-lob
+64,Spyros Althoff,Man001,,,EbRewe/eb12-rewe-rm01,EbRewe/eb12-rewe-rm02,22.120,Spyros Althoff interbuiding leg.snode:eb12-rewe-rm01 enode:eb12-rewe-rm02
+65,Vivaan Chen,Businessman009,,,Eb12-22/eb12-22-lob,Eb12-22/eb12-10-lob,22.120,Vivaan Chen interbuiding leg.snode:eb12-22-lob enode:eb12-10-lob
+66,Vanya Zhang,Girl007,,,Eb12-22/eb12-14-lob,Eb12-22/eb12-12-lob,22.120,Vanya Zhang interbuiding leg.snode:eb12-14-lob enode:eb12-12-lob
+67,Raquel Chen,Businesswoman004,,,Eb12-22/eb12-08-lob,Eb12-22/eb12-18-lob,22.120,Raquel Chen interbuiding leg.snode:eb12-08-lob enode:eb12-18-lob
+68,Arjun Saito,Man006,,,Eb12-22/eb12-20-lob,Eb12-22/eb12-16-lob,22.120,Arjun Saito interbuiding leg.snode:eb12-20-lob enode:eb12-16-lob
+69,Thuy Althoff,Businesswoman007,,,Eb12-22/eb12-18-lob,Eb12-22/eb12-22-lob,24.140,Thuy Althoff interbuiding leg.snode:eb12-18-lob enode:eb12-22-lob
+70,Angela Kumar,Girl005,,,Eb12-22/eb12-20-lob,Eb12-22/eb12-10-lob,24.140,Angela Kumar interbuiding leg.snode:eb12-20-lob enode:eb12-10-lob
+71,Vihann Bohr,Man010,,,Eb12-22/eb12-12-lob,Eb12-22/eb12-08-lob,24.140,Vihann Bohr interbuiding leg.snode:eb12-12-lob enode:eb12-08-lob
+72,Vera Zhang,Girl008,,,Eb12-22/eb12-10-lob,Eb12-22/eb12-20-lob,24.140,Vera Zhang interbuiding leg.snode:eb12-10-lob enode:eb12-20-lob
+73,Liam Li,Man004,IS-7551,Car008,EbRewe/eb12-rewe-rm02,Eb12-22/eb12-20-lob,24.140,Liam Li traveling to eb12-20-lob with a Car008
+74,Angela Lee,Businesswoman009,,,Eb12-22/eb12-08-lob,Eb12-22/eb12-20-lob,24.140,Angela Lee interbuiding leg.snode:eb12-08-lob enode:eb12-20-lob
+75,Xaoice Blanc,Girl002,,,Eb12-22/eb12-14-lob,Eb12-22/eb12-18-lob,24.140,Xaoice Blanc interbuiding leg.snode:eb12-14-lob enode:eb12-18-lob
+76,Sally Remus,Girl010,,,Eb12-22/eb12-20-lob,Eb12-22/eb12-22-lob,24.140,Sally Remus interbuiding leg.snode:eb12-20-lob enode:eb12-22-lob
+77,Joana Wu,Businesswoman003,,,Eb12-22/eb12-16-lob,Eb12-22/eb12-20-lob,26.148,Joana Wu interbuiding leg.snode:eb12-16-lob enode:eb12-20-lob
+78,Steve Kumar,Man001,,,Eb12-22/eb12-10-lob,Eb12-22/eb12-14-lob,26.148,Steve Kumar interbuiding leg.snode:eb12-10-lob enode:eb12-14-lob
+79,Mei Visser,Girl008,Q-6694,Car029,Eb12-22/eb12-22-lob,EbRewe/eb12-rewe-rm02,26.148,Mei Visser traveling to eb12-rewe-rm02 with a Car029
+80,Stefan Singh,Man007,,,Eb12-22/eb12-10-lob,Eb12-22/eb12-18-lob,26.148,Stefan Singh interbuiding leg.snode:eb12-10-lob enode:eb12-18-lob
+81,Phil Nakamura,Man002,,,Eb12-22/eb12-10-lob,Eb12-22/eb12-14-lob,26.148,Phil Nakamura interbuiding leg.snode:eb12-10-lob enode:eb12-14-lob
+82,Rene Xian,Man004,,,Eb12-22/eb12-18-lob,Eb12-22/eb12-10-lob,26.148,Rene Xian interbuiding leg.snode:eb12-18-lob enode:eb12-10-lob
+83,Kamala Takahashi,Girl006,,,Eb12-22/eb12-14-lob,Eb12-22/eb12-20-lob,26.148,Kamala Takahashi interbuiding leg.snode:eb12-14-lob enode:eb12-20-lob
+84,Bill Xian,Man005,,,Eb12-22/eb12-08-lob,Eb12-22/eb12-20-lob,26.148,Bill Xian interbuiding leg.snode:eb12-08-lob enode:eb12-20-lob
+85,Ivan Garcia,Man006,,,Eb12-22/eb12-18-lob,Eb12-22/eb12-10-lob,28.157,Ivan Garcia interbuiding leg.snode:eb12-18-lob enode:eb12-10-lob
+86,Julia Garcia,Businesswoman009,,,Eb12-22/eb12-18-lob,Eb12-22/eb12-10-lob,28.157,Julia Garcia interbuiding leg.snode:eb12-18-lob enode:eb12-10-lob
+87,Muhammad Cooper,Businessman009,,,Eb12-22/eb12-08-lob,Eb12-22/eb12-20-lob,28.157,Muhammad Cooper interbuiding leg.snode:eb12-08-lob enode:eb12-20-lob
+88,Detlev Wang,Businessman006,,,Eb12-22/eb12-12-lob,Eb12-22/eb12-18-lob,28.157,Detlev Wang interbuiding leg.snode:eb12-12-lob enode:eb12-18-lob
+89,Kate Mortimer,Businesswoman003,,,Eb12-22/eb12-10-lob,Eb12-22/eb12-16-lob,28.157,Kate Mortimer interbuiding leg.snode:eb12-10-lob enode:eb12-16-lob
+90,Deepak Wilson,Businessman003,,,Eb12-22/eb12-22-lob,Eb12-22/eb12-10-lob,30.172,Deepak Wilson interbuiding leg.snode:eb12-22-lob enode:eb12-10-lob
+91,Zoe Plank,Businesswoman008,,,Eb12-22/eb12-22-lob,Eb12-22/eb12-14-lob,30.172,Zoe Plank interbuiding leg.snode:eb12-22-lob enode:eb12-14-lob
+92,Brett Remus,Man001,,,Eb12-22/eb12-10-lob,Eb12-22/eb12-14-lob,30.172,Brett Remus interbuiding leg.snode:eb12-10-lob enode:eb12-14-lob
+93,Tanya Miller,Businesswoman003,,,Eb12-22/eb12-10-lob,Eb12-22/eb12-12-lob,30.172,Tanya Miller interbuiding leg.snode:eb12-10-lob enode:eb12-12-lob
+94,Fang Nguyen,Businessman003,,,Eb12-22/eb12-16-lob,Eb12-22/eb12-22-lob,30.172,Fang Nguyen interbuiding leg.snode:eb12-16-lob enode:eb12-22-lob
+95,Bruce Jones,Businessman002,,,Eb12-22/eb12-22-lob,Eb12-22/eb12-20-lob,32.178,Bruce Jones interbuiding leg.snode:eb12-22-lob enode:eb12-20-lob
+96,Anders Agarwal,Man010,,,Eb12-22/eb12-22-lob,Eb12-22/eb12-12-lob,32.178,Anders Agarwal interbuiding leg.snode:eb12-22-lob enode:eb12-12-lob
+97,Tay Johnson,Businesswoman001,,,Eb12-22/eb12-08-lob,Eb12-22/eb12-14-lob,32.178,Tay Johnson interbuiding leg.snode:eb12-08-lob enode:eb12-14-lob
+98,Fang Brown,Businessman003,,,Eb12-22/eb12-18-lob,Eb12-22/eb12-22-lob,32.178,Fang Brown interbuiding leg.snode:eb12-18-lob enode:eb12-22-lob
+99,Ava Balmer,Businesswoman005,,,Eb12-22/eb12-16-lob,Eb12-22/eb12-22-lob,32.178,Ava Balmer interbuiding leg.snode:eb12-16-lob enode:eb12-22-lob
+100,Fan Jordan,Girl009,,,Eb12-22/eb12-22-lob,Eb12-22/eb12-20-lob,32.178,Fan Jordan interbuiding leg.snode:eb12-22-lob enode:eb12-20-lob
+101,Peng Johnson,Businessman007,,,Eb12-22/eb12-22-lob,Eb12-22/eb12-16-lob,32.178,Peng Johnson interbuiding leg.snode:eb12-22-lob enode:eb12-16-lob
+102,Kevyn Park,Businesswoman005,,,Eb12-22/eb12-16-lob,Eb12-22/eb12-22-lob,32.178,Kevyn Park interbuiding leg.snode:eb12-16-lob enode:eb12-22-lob
+103,Ema Laren,Girl004,N-8979,Car002,Eb12-22/eb12-20-lob,EbRewe/eb12-rewe-rm02,34.184,Ema Laren traveling to eb12-rewe-rm02 with a Car002
+104,Vinod Remus,Businessman004,,,Eb12-22/eb12-10-lob,Eb12-22/eb12-18-lob,34.184,Vinod Remus interbuiding leg.snode:eb12-10-lob enode:eb12-18-lob
+105,Aryan Cupp,Man008,,,Eb12-22/eb12-14-lob,Eb12-22/eb12-10-lob,34.184,Aryan Cupp interbuiding leg.snode:eb12-14-lob enode:eb12-10-lob
+106,Yin Singh,Girl006,,,Eb12-22/eb12-14-lob,Eb12-22/eb12-16-lob,34.184,Yin Singh interbuiding leg.snode:eb12-14-lob enode:eb12-16-lob
+107,Max Cooper,Businessman002,AN-8034,Car012,Eb12-22/eb12-22-lob,EbRewe/eb12-rewe-lob,34.184,Max Cooper traveling to eb12-rewe-lob with a Car012
+108,Rakesh Smirnov,Businessman009,,,Eb12-22/eb12-10-lob,Eb12-22/eb12-20-lob,34.184,Rakesh Smirnov interbuiding leg.snode:eb12-10-lob enode:eb12-20-lob
+109,Xaoice Larsen,Girl008,,,Eb12-22/eb12-16-lob,Eb12-22/eb12-20-lob,34.184,Xaoice Larsen interbuiding leg.snode:eb12-16-lob enode:eb12-20-lob
+110,Peng Li,Businessman008,,,Eb12-22/eb12-08-lob,Eb12-22/eb12-16-lob,36.198,Peng Li interbuiding leg.snode:eb12-08-lob enode:eb12-16-lob
+111,Qi Ray,Man010,,,Eb12-22/eb12-16-lob,Eb12-22/eb12-10-lob,36.198,Qi Ray interbuiding leg.snode:eb12-16-lob enode:eb12-10-lob
+112,Aryan Johnson,Man005,,,Eb12-22/eb12-10-lob,Eb12-22/eb12-14-lob,36.198,Aryan Johnson interbuiding leg.snode:eb12-10-lob enode:eb12-14-lob
+113,Shay Ross,Businesswoman008,,,Eb12-22/eb12-10-lob,Eb12-22/eb12-22-lob,36.198,Shay Ross interbuiding leg.snode:eb12-10-lob enode:eb12-22-lob
+114,Elizabeth Park,Girl004,,,Eb12-22/eb12-20-lob,Eb12-22/eb12-10-lob,36.198,Elizabeth Park interbuiding leg.snode:eb12-20-lob enode:eb12-10-lob
+115,Vijay Wise,Man002,,,Eb12-22/eb12-18-lob,Eb12-22/eb12-10-lob,38.208,Vijay Wise interbuiding leg.snode:eb12-18-lob enode:eb12-10-lob
+116,Yuka Feng,Girl005,,,Eb12-22/eb12-16-lob,Eb12-22/eb12-20-lob,38.208,Yuka Feng interbuiding leg.snode:eb12-16-lob enode:eb12-20-lob
+117,Hina Patel,Businesswoman006,,,Eb12-22/eb12-08-lob,Eb12-22/eb12-20-lob,38.208,Hina Patel interbuiding leg.snode:eb12-08-lob enode:eb12-20-lob
+118,Kevyn Remus,Girl003,,,Eb12-22/eb12-16-lob,Eb12-22/eb12-20-lob,38.208,Kevyn Remus interbuiding leg.snode:eb12-16-lob enode:eb12-20-lob
+119,Qi Wu,Man009,,,Eb12-22/eb12-08-lob,Eb12-22/eb12-20-lob,38.208,Qi Wu interbuiding leg.snode:eb12-08-lob enode:eb12-20-lob
+120,Clair Zhou,Businesswoman003,,,Eb12-22/eb12-14-lob,Eb12-22/eb12-18-lob,38.208,Clair Zhou interbuiding leg.snode:eb12-14-lob enode:eb12-18-lob
+121,Vinod Carnot,Businessman007,,,Eb12-22/eb12-22-lob,Eb12-22/eb12-12-lob,40.214,Vinod Carnot interbuiding leg.snode:eb12-22-lob enode:eb12-12-lob
+122,Satya Kobayashi,Businessman002,,,Eb12-22/eb12-22-lob,Eb12-22/eb12-14-lob,40.214,Satya Kobayashi interbuiding leg.snode:eb12-22-lob enode:eb12-14-lob
+123,Julia Chen,Girl006,,,Eb12-22/eb12-18-lob,Eb12-22/eb12-12-lob,40.214,Julia Chen interbuiding leg.snode:eb12-18-lob enode:eb12-12-lob
+124,Katy Yamamoto,Businesswoman003,,,Eb12-22/eb12-18-lob,Eb12-22/eb12-10-lob,40.214,Katy Yamamoto interbuiding leg.snode:eb12-18-lob enode:eb12-10-lob
+125,Vinod Haneda,Man003,,,Eb12-22/eb12-12-lob,Eb12-22/eb12-14-lob,40.214,Vinod Haneda interbuiding leg.snode:eb12-12-lob enode:eb12-14-lob
+126,Olivia Remus,Businesswoman005,,,Eb12-22/eb12-18-lob,Eb12-22/eb12-16-lob,42.218,Olivia Remus interbuiding leg.snode:eb12-18-lob enode:eb12-16-lob
+127,Jim Yamamoto,Businessman003,,,Eb12-22/eb12-16-lob,Eb12-22/eb12-18-lob,42.218,Jim Yamamoto interbuiding leg.snode:eb12-16-lob enode:eb12-18-lob
+128,Muhammad Anand,Man007,,,Eb12-22/eb12-08-lob,Eb12-22/eb12-12-lob,42.218,Muhammad Anand interbuiding leg.snode:eb12-08-lob enode:eb12-12-lob
+129,Judson Xian,Man008,,,Eb12-22/eb12-12-lob,Eb12-22/eb12-14-lob,42.218,Judson Xian interbuiding leg.snode:eb12-12-lob enode:eb12-14-lob
+130,Arjun Jordan,Businessman005,,,Eb12-22/eb12-20-lob,Eb12-22/eb12-18-lob,42.218,Arjun Jordan interbuiding leg.snode:eb12-20-lob enode:eb12-18-lob
+131,Vanya Zhang,Girl007,,,Eb12-22/eb12-12-lob,Eb12-22/eb12-20-lob,44.246,Vanya Zhang interbuiding leg.snode:eb12-12-lob enode:eb12-20-lob
+132,Arjun Althoff,Businessman007,,,Eb12-22/eb12-14-lob,Eb12-22/eb12-16-lob,44.246,Arjun Althoff interbuiding leg.snode:eb12-14-lob enode:eb12-16-lob
+133,Rimes Nakamura,Man004,,,Eb12-22/eb12-14-lob,Eb12-22/eb12-18-lob,44.246,Rimes Nakamura interbuiding leg.snode:eb12-14-lob enode:eb12-18-lob
+134,Alex Zhou,Businessman010,,,Eb12-22/eb12-14-lob,Eb12-22/eb12-22-lob,44.246,Alex Zhou interbuiding leg.snode:eb12-14-lob enode:eb12-22-lob
+135,Katy Nguyen,Businesswoman001,,,Eb12-22/eb12-08-lob,Eb12-22/eb12-14-lob,44.246,Katy Nguyen interbuiding leg.snode:eb12-08-lob enode:eb12-14-lob
+136,Sally Cai,Girl010,,,Eb12-22/eb12-20-lob,Eb12-22/eb12-10-lob,46.288,Sally Cai interbuiding leg.snode:eb12-20-lob enode:eb12-10-lob
+137,Spyros Althoff,Man001,V-1206,Car010,EbRewe/eb12-rewe-rm02,Eb12-22/eb12-16-lob,46.288,Spyros Althoff traveling to eb12-16-lob with a Car010
+138,Alex Xiao,Businessman001,,,Eb12-22/eb12-20-lob,Eb12-22/eb12-22-lob,46.288,Alex Xiao interbuiding leg.snode:eb12-20-lob enode:eb12-22-lob
+139,Arjun Saito,Man006,,,Eb12-22/eb12-16-lob,Eb12-22/eb12-18-lob,46.288,Arjun Saito interbuiding leg.snode:eb12-16-lob enode:eb12-18-lob
+140,Ira Jones,Businesswoman009,,,Eb12-22/eb12-14-lob,Eb12-22/eb12-12-lob,46.288,Ira Jones interbuiding leg.snode:eb12-14-lob enode:eb12-12-lob
+141,Xaoice Blanc,Girl002,,,Eb12-22/eb12-18-lob,Eb12-22/eb12-12-lob,46.288,Xaoice Blanc interbuiding leg.snode:eb12-18-lob enode:eb12-12-lob
+142,Joana Wu,Businesswoman003,,,Eb12-22/eb12-20-lob,Eb12-22/eb12-08-lob,48.301,Joana Wu interbuiding leg.snode:eb12-20-lob enode:eb12-08-lob
+143,Peng Johnson,Businessman007,,,Eb12-22/eb12-16-lob,Eb12-22/eb12-12-lob,48.301,Peng Johnson interbuiding leg.snode:eb12-16-lob enode:eb12-12-lob
+144,Phil Nakamura,Man002,,,Eb12-22/eb12-14-lob,Eb12-22/eb12-18-lob,48.301,Phil Nakamura interbuiding leg.snode:eb12-14-lob enode:eb12-18-lob
+145,Aditi Watanabe,Girl006,,,Eb12-22/eb12-20-lob,Eb12-22/eb12-08-lob,48.301,Aditi Watanabe interbuiding leg.snode:eb12-20-lob enode:eb12-08-lob
+146,Haruka Smirnov,Businesswoman003,,,Eb12-22/eb12-16-lob,Eb12-22/eb12-20-lob,48.301,Haruka Smirnov interbuiding leg.snode:eb12-16-lob enode:eb12-20-lob
+147,Ivan Garcia,Man006,,,Eb12-22/eb12-10-lob,Eb12-22/eb12-12-lob,48.301,Ivan Garcia interbuiding leg.snode:eb12-10-lob enode:eb12-12-lob
+148,Vihann Bohr,Man010,,,Eb12-22/eb12-08-lob,Eb12-22/eb12-18-lob,48.301,Vihann Bohr interbuiding leg.snode:eb12-08-lob enode:eb12-18-lob
+149,Fu Bohr,Businessman006,,,Eb12-22/eb12-10-lob,Eb12-22/eb12-12-lob,50.346,Fu Bohr interbuiding leg.snode:eb12-10-lob enode:eb12-12-lob
+150,Sally Remus,Girl010,,,Eb12-22/eb12-22-lob,Eb12-22/eb12-10-lob,50.346,Sally Remus interbuiding leg.snode:eb12-22-lob enode:eb12-10-lob
+151,Kate Mortimer,Businesswoman003,,,Eb12-22/eb12-16-lob,Eb12-22/eb12-20-lob,50.346,Kate Mortimer interbuiding leg.snode:eb12-16-lob enode:eb12-20-lob
+152,Brett Remus,Man001,,,Eb12-22/eb12-14-lob,Eb12-22/eb12-12-lob,50.346,Brett Remus interbuiding leg.snode:eb12-14-lob enode:eb12-12-lob
+153,Raquel Chen,Businesswoman004,,,Eb12-22/eb12-18-lob,Eb12-22/eb12-10-lob,50.346,Raquel Chen interbuiding leg.snode:eb12-18-lob enode:eb12-10-lob
+154,Kamala Takahashi,Girl006,,,Eb12-22/eb12-20-lob,Eb12-22/eb12-10-lob,50.346,Kamala Takahashi interbuiding leg.snode:eb12-20-lob enode:eb12-10-lob
+155,Vera Zhang,Girl008,,,Eb12-22/eb12-20-lob,Eb12-22/eb12-18-lob,52.373,Vera Zhang interbuiding leg.snode:eb12-20-lob enode:eb12-18-lob
+156,Fang Brown,Businessman003,,,Eb12-22/eb12-22-lob,Eb12-22/eb12-14-lob,52.373,Fang Brown interbuiding leg.snode:eb12-22-lob enode:eb12-14-lob
+157,Angela Kumar,Girl005,,,Eb12-22/eb12-10-lob,Eb12-22/eb12-16-lob,52.373,Angela Kumar interbuiding leg.snode:eb12-10-lob enode:eb12-16-lob
+158,Steve Kumar,Man001,,,Eb12-22/eb12-14-lob,Eb12-22/eb12-12-lob,52.373,Steve Kumar interbuiding leg.snode:eb12-14-lob enode:eb12-12-lob
+159,Tay Johnson,Businesswoman001,FY-5926,Car003,Eb12-22/eb12-14-lob,EbRewe/eb12-rewe-lob,54.442,Tay Johnson traveling to eb12-rewe-lob with a Car003
+160,Tanya Miller,Businesswoman003,,,Eb12-22/eb12-12-lob,Eb12-22/eb12-08-lob,54.442,Tanya Miller interbuiding leg.snode:eb12-12-lob enode:eb12-08-lob
+161,Ava Balmer,Businesswoman005,,,Eb12-22/eb12-22-lob,Eb12-22/eb12-18-lob,54.442,Ava Balmer interbuiding leg.snode:eb12-22-lob enode:eb12-18-lob
+162,Jim Yamamoto,Businessman003,,,Eb12-22/eb12-18-lob,Eb12-22/eb12-14-lob,54.442,Jim Yamamoto interbuiding leg.snode:eb12-18-lob enode:eb12-14-lob
+163,Xaoice Larsen,Girl008,,,Eb12-22/eb12-20-lob,Eb12-22/eb12-16-lob,54.442,Xaoice Larsen interbuiding leg.snode:eb12-20-lob enode:eb12-16-lob
+164,Julia Garcia,Businesswoman009,,,Eb12-22/eb12-10-lob,Eb12-22/eb12-18-lob,56.494,Julia Garcia interbuiding leg.snode:eb12-10-lob enode:eb12-18-lob
+165,Angela Lee,Businesswoman009,,,Eb12-22/eb12-20-lob,Eb12-22/eb12-10-lob,56.494,Angela Lee interbuiding leg.snode:eb12-20-lob enode:eb12-10-lob
+166,Vivaan Chen,Businessman009,,,Eb12-22/eb12-10-lob,Eb12-22/eb12-08-lob,58.495,Vivaan Chen interbuiding leg.snode:eb12-10-lob enode:eb12-08-lob
+167,Kevyn Park,Businesswoman005,,,Eb12-22/eb12-22-lob,Eb12-22/eb12-08-lob,58.495,Kevyn Park interbuiding leg.snode:eb12-22-lob enode:eb12-08-lob
+168,Detlev Wang,Businessman006,,,Eb12-22/eb12-18-lob,Eb12-22/eb12-12-lob,58.495,Detlev Wang interbuiding leg.snode:eb12-18-lob enode:eb12-12-lob
+169,Peng Garcia,Man008,,,Eb12-22/eb12-22-lob,Eb12-22/eb12-10-lob,58.495,Peng Garcia interbuiding leg.snode:eb12-22-lob enode:eb12-10-lob
+170,Muhammad Cooper,Businessman009,,,Eb12-22/eb12-20-lob,Eb12-22/eb12-10-lob,58.495,Muhammad Cooper interbuiding leg.snode:eb12-20-lob enode:eb12-10-lob
+171,Stefan Singh,Man007,,,Eb12-22/eb12-18-lob,Eb12-22/eb12-12-lob,60.526,Stefan Singh interbuiding leg.snode:eb12-18-lob enode:eb12-12-lob
+172,Satya Kobayashi,Businessman002,,,Eb12-22/eb12-14-lob,Eb12-22/eb12-10-lob,60.526,Satya Kobayashi interbuiding leg.snode:eb12-14-lob enode:eb12-10-lob
+173,Rakesh Smirnov,Businessman009,,,Eb12-22/eb12-20-lob,Eb12-22/eb12-22-lob,60.526,Rakesh Smirnov interbuiding leg.snode:eb12-20-lob enode:eb12-22-lob
+174,Rene Xian,Man004,,,Eb12-22/eb12-10-lob,Eb12-22/eb12-12-lob,60.526,Rene Xian interbuiding leg.snode:eb12-10-lob enode:eb12-12-lob
+175,Vinod Remus,Businessman004,,,Eb12-22/eb12-18-lob,Eb12-22/eb12-10-lob,60.526,Vinod Remus interbuiding leg.snode:eb12-18-lob enode:eb12-10-lob
