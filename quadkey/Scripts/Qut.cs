@@ -230,8 +230,6 @@ public static class qut
         rend.material.color = cclr;
     }
 
-
-
     public static void SetColorOfGo(GameObject go, string clrname, float alf = 1.0f)
     {
         SetColorOfGo(go, GetColorByName(clrname, alf));
