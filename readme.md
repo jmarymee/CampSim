@@ -1,6 +1,4 @@
-# onefloortestforparking
-
-Yes, it is an awkward name. Should be called "Campus Simulator", but I wasn't that ambitious at the time.
+# CampSimGithub
 
 
 ## Prerequisites
@@ -8,7 +6,7 @@ Yes, it is an awkward name. Should be called "Campus Simulator", but I wasn't th
 - The **binassets** folder (containing non-checked in assets) from me personally. It is around 2 GB.
 - Visual Studio 2017 with Unity support installed, it can work with VS Code too, but it hasn't been tried on this yet.
 
-## Installation instructions
+## Installation instructions (probably obsolete)
 
 1.	Make sure you have a recent version of Git (**git –version**, I am using 2.21.0.windows.1)
 2.	Enable **git-lfs** for your user with **git lfs install**. If you don’t want to do this, you have to do step 7a and 7b (which is no big deal)
