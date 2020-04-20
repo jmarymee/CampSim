@@ -1,7 +1,7 @@
 # CampSim
 
 - Author: Mike Wise
-- Last Updated: 20 April 2020
+- Last Updated: 20 April 2020 - 15:08
 
 ## Prerequisites
 - At least 20 GB of free space, 8 GB of memory, and as much CPU/GPU as possible, although GPU is not stricly necessary. 
