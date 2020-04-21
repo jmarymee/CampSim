@@ -121,8 +121,8 @@ namespace CampusSimulator
                 floorwid = garage.slot2slotdist;
                 floor.transform.localScale = new Vector3(slotlen, 0.01f, floorwid);
                 var crenderer = floor.GetComponent<Renderer>();
-                crenderer.material.color = Color.gray;// "Infinity Code/Online Maps/Tileset DrawingElement"
-                crenderer.material.shader = Shader.Find("Infinity Code/Online Maps/Tileset DrawingElement");
+                crenderer.material.color = Color.gray;
+                crenderer.material.shader = Shader.Find("Diffuse");
                 var clrdr = floor.GetComponent<Collider>();
                 clrdr.enabled = false;
                 //map.AddDrawingElement(new OnlineMapsDrawingRect(new Vector2(2, 2), new Vector2(1, 1), Color.green, 1,Color.blue));
