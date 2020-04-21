@@ -37,7 +37,14 @@
                     string buildReport = "ERROR";
         #endif
 
-                    PlayerSettings.SetScriptingBackend(BuildTargetGroup.Standalone, ScriptingImplementation.Mono2x);
+            if (EditorUserBuildSettings.activeBuildTarget == BuildTarget.StandaloneLinux64)
+            {
+                PlayerSettings.SetScriptingBackend(BuildTargetGroup.Standalone, ScriptingImplementation.Mono2x);
+            }
+            else
+            {
+                PlayerSettings.SetScriptingBackend(BuildTargetGroup.Standalone, ScriptingImplementation.IL2CPP);
+            }
                     
                     buildReport = BuildPipeline.BuildPlayer(new BuildPlayerOptions
                     {
